@@ -1,0 +1,6 @@
+{
+  "name": "MH Kitchen Pricing Pro",
+  "description": "Kitchen pricing configuration tool and SketchUp plugin UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
